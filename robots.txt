@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://leixy2004.github.io/al-folio/sitemap.xml
+Sitemap: https://leixy2004.github.io/sitemap.xml
